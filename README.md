@@ -84,4 +84,4 @@
 
 <a href="https://paulafeltrin.github.io/html-css/estudos/desafios/d009/index.html">Desafio 009 - Vídeos</a>
 
-<a href="https://paulafeltrin.github.io/html-css/estudos/desafios/d010/index.html">Desafio 010 - Projeto Android</a>
+<a href="https://paulafeltrin.github.io/html-css/estudos/desafios/d010/android.html">Desafio 010 - Projeto Android</a>
